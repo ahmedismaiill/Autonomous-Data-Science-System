@@ -4,6 +4,10 @@ pandas
 numpy
 python-dotenv
 
+# Agent Framework (ADDED THIS)
+crewai
+crewai-tools
+
 # Machine Learning (CPU versions)
 torch
 torchaudio
@@ -12,7 +16,7 @@ scikit-learn
 sentence-transformers
 faiss-cpu
 
-# LangChain Ecosystem (Unpinned to fix conflicts)
+# LangChain Ecosystem
 langchain
 langchain-community
 langchain-openai
@@ -38,4 +42,4 @@ altair
 pyngrok
 requests
 beautifulsoup4
-reportlab 
+reportlab
