@@ -34,7 +34,7 @@ The system employs an **Orchestrator-Agent Architecture** consisting of speciali
 ### Streamlit Pipeline Interface
 *Witness the system logs, progress tracking, and autonomous decision-making in real-time.*
 
-![System Demo](demo/pipeline_demo.mp4)
+[Watch Video](demo/pipeline_demo.mp4)
 
 ---
 
