@@ -7,7 +7,7 @@ embedding_model_name = "sentence-transformers/all-MiniLM-L6-v2"
 # llm = Ollama(model="llama3.2:3b")
 
 # ========== for streamlit deployment ========== #
-language_model = LLM(
+llm = LLM(
     model="ollama/llama3.2:3b",
     base_url="http://localhost:11434",
     temperature=0.9,
