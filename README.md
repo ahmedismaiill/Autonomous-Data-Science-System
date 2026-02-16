@@ -35,7 +35,7 @@ The system employs an **Orchestrator-Agent Architecture** consisting of speciali
 *Witness the system logs, progress tracking, and autonomous decision-making in real-time.*
 
 <div align="center">
-  <a href="https://youtu.be/EMS9W1Fi-ts">
+  <a href="[https://youtu.be/EMS9W1Fi-ts](https://www.youtube.com/watch?v=EMS9W1Fi-ts)">
     <img src="demo/custom_thumbnail_with_play_button.png" width="100%">
   </a>
 </div>
