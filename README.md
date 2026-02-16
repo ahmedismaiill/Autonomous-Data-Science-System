@@ -35,7 +35,8 @@ The system employs an **Orchestrator-Agent Architecture** consisting of speciali
 *Witness the system logs, progress tracking, and autonomous decision-making in real-time.*
 
 <div align="center">
-  <video src="demo/pipeline_demo.mp4" width="100%" controls></video>
+  <video src="https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/demo/pipeline_demo.mp4?raw=true" width="100%" controls>
+  </video>
 </div>
 
 ---
