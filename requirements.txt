@@ -38,3 +38,4 @@ altair
 pyngrok
 requests
 beautifulsoup4
+reportlab 
