@@ -4,11 +4,12 @@ pandas
 numpy
 python-dotenv
 
-# Agent Framework (ADDED THIS)
+# Agent Framework
 crewai
 crewai-tools
+litellm            
 
-# Machine Learning (CPU versions)
+# Machine Learning
 torch
 torchaudio
 torchvision
